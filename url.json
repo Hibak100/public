@@ -1,37 +1,42 @@
 {
-  "settingsReloadIntervalMinutes": 1,
+  "settingsReloadIntervalMinutes": 60,
   "fullscreen": false,
   "autoStart": false,
   "websites" : [
-   {
-      "url" : "https://admin-prod.ef.uk.com/int/index.html#/otherTools",
-      "duration" : 10,
+    {
+      "url" : "https://purina.ef.uk.com/www/",
+      "duration" : 15,
       "tabReloadIntervalSeconds": 300
     },
     {
       "url" : "https://efundamentals.atlassian.net/secure/Dashboard.jspa?selectPageId=11726",
-      "duration" : 10,
+      "duration" : 15,
       "tabReloadIntervalSeconds": 300
     },
     {
       "url" : "https://efundamentals.atlassian.net/secure/Dashboard.jspa?selectPageId=11500",
-      "duration" : 10,
+      "duration" : 15,
       "tabReloadIntervalSeconds": 300
     },
     {
       "url" : "https://efundamentals.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=ESF",
-      "duration" : 10,
+      "duration" : 15,
       "tabReloadIntervalSeconds": 300
     },
     {
-      "url" : "https://purina.ef.uk.com/www/",
-      "duration" : 10,
-      "tabReloadIntervalSeconds": 15
+      "url" : "https://www.ef.uk.com/",
+      "duration" : 15,
+      "tabReloadIntervalSeconds": 300
     },
     {
-      "url" : "https://www.ef.uk.com/",
-      "duration" : 10,
-      "tabReloadIntervalSeconds": 15
+      "url" : "https://admin-prod.ef.uk.com/int/index.html#/otherTools",
+      "duration" : 15,
+      "tabReloadIntervalSeconds": 300
+    },
+    {
+      "url" : "https://docs.google.com/spreadsheets/d/1Rcc7cl83f307QmdcoxDQoq8z1fM_YqtkBv8VaefYXJI/edit#gid=1024082192",
+      "duration" : 15,
+      "tabReloadIntervalSeconds": 300
     }
   ]
 }
